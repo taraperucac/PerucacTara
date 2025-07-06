@@ -785,7 +785,8 @@ padding-left: 100px;
 
 }
 
-.cenovnik-container table {width: 100%;
+.cenovnik-container table {width: 80%;
+min-width:400px;
 margin: 0;
 background-color: #51b095a8;
 color: #ece9e7;
